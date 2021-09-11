@@ -7,5 +7,5 @@ ________________________________________________________________________________
  translation service.
 
 
-Scrape project.zip file with wget
+Use `wget` to scrape project.zip file:
  wget -nc -P https://content.codecademy.com/courses/learn-command-line/offline-project/lingua-franca-project.zip
